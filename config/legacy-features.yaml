@@ -1,6 +1,0 @@
-# DEPRECATED-RUNBOOK-MARKER-7QF3
-# Legacy feature flags scheduled for retirement.
-
-feature_legacy_auth_v1: true
-feature_chain_replay: true
-feature_deprecated_experiments: []
