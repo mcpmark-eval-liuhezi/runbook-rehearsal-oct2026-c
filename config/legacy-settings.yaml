@@ -1,9 +1,0 @@
-# DEPRECATED-RUNBOOK-MARKER-7QF3
-# Legacy configuration retired per runbook-rehearsal-oct2026.
-# Do not edit on main; changes belong on chore/retire-legacy-settings.
-
-legacy_db_host: "old-db.internal.example.com"
-legacy_db_port: 15432
-legacy_cache_ttl_seconds: 300
-legacy_log_level: "debug"
-legacy_max_connections: 200
